@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u044B' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u0445' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\Semion\source\repos\homework snacks\homework snacks\main.cpp(17,10): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  snacks.cpp
+C:\Users\Semion\source\repos\homework snacks\homework snacks\snacks.cpp(48,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Semion\source\repos\homework snacks\homework snacks\snacks.cpp(68,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  homework snacks.vcxproj -> C:\Users\Semion\source\repos\homework snacks\x64\Debug\homework snacks.exe
